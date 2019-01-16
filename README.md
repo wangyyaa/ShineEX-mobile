@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to ShineEX mobile Prototype
 
-You can use the [editor on GitHub](https://github.com/wangyyaa/ShineEX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这里是关于`ShineEX mobile`的原型内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**原型查看链接**： [https://wangyyaa.github.io/ShineEX-mobile/](https://wangyyaa.github.io/ShineEX-mobile/)  
+**设计稿查看链接**： [https://lanhuapp.com/url/pv6fm](https://lanhuapp.com/url/pv6fm)
 
-### Markdown
+_任何更新均以此链接内容为准。_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 事件记录
 
-```markdown
-Syntax highlighted code block
+- 20180809 `v-1.0` 原型输出；
+- 20180813 `v-1.0` 需求评审；
+- 20181211 `v-1.1` 原型输出；
+- 20181212 `v-1.1` 需求评审；
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+```
+项目leader：刘驭雨
+产品经理：汪亚亚
+设计师：杜若溪
+iOS开发：张忠瑞
+Android开发：钱超
+后端开发：狄杰林、王洋、李潇俊
+测试：花健
+运维：刘东
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangyyaa/ShineEX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
