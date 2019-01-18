@@ -3,9 +3,10 @@
 这里是关于`ShineEX mobile`的原型内容。
 
 **原型查看链接**： [https://wangyyaa.github.io/ShineEX-mobile/](https://wangyyaa.github.io/ShineEX-mobile/)  
-**设计稿查看链接**： [https://lanhuapp.com/url/pv6fm](https://lanhuapp.com/url/pv6fm)
+ <!--  **设计稿查看链接**： [https://lanhuapp.com/url/pv6fm](https://lanhuapp.com/url/pv6fm) -->
 
-_任何更新均以此链接内容为准。_
+[//]: _任何更新均以此链接内容为准。_
+
 
 ### 事件记录
 
